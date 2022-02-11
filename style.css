@@ -683,7 +683,7 @@ footer {
     .banner-contents p {
         font-size: 14px;
     }
-    .banner-type1 {
+    /* .banner-type1 {
         left: -15px;
     }
     .banner-type2 {
@@ -692,7 +692,7 @@ footer {
     .banner-type3 {
         right: -15px;
         top: 45%;
-    }
+    } */
     .banner-types a {
         font-size: 12px;
     }
