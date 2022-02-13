@@ -580,23 +580,27 @@ footer {
         padding: 30px 0px;
     }
     .banner-types a {
-        min-width: 50px;
-        border-radius: 50%;
+        min-width: 250px;
         padding: 10px 10px;
     }
 
     .banner-type1{
-        left: 40%;
-        top: -15px;
+        left: 11%;
+        top: -5px;
     }
 
     .banner-type2{
-        left: 40%;
-        bottom: -15px;
+        left: 11%;
+        bottom: 5px;
     }
 
     .banner-type3{
         top: 40%;
+        right: -30px;
+    }
+
+    .banner-type3 a, .banner-type4 a {
+        min-width: 160px;
     }
 
     .banner-type4{
@@ -613,13 +617,7 @@ footer {
         font-size: 12px;
         margin-bottom: 20px;
     }
-    .banner-type3 {
-        right: -30px;
-    }
 
-    .banner-type-content {
-        display:none;
-    }
     .solutions-info a {
         min-width: 100%;
     }
