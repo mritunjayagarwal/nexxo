@@ -300,9 +300,9 @@ a.login-btn {
 .solutions-row:last-child {
     margin-bottom: 0px;
 }
-.solutions-contents {
+/* .solutions-contents {
     margin-top: 130px;
-}
+} */
 .solutions-contents h3 {
     font-size: 30px;
     color: #1D263A;
